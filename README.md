@@ -8,6 +8,7 @@
 
 # Issues
 #   I didn't run into any major issues. The small issues I did have were primarily due to mistyping terminal commands as well as getting acquainted with spinning up and launching VMs from a command line. I have tiny bit of previous experience with AWS, however I did all of that through the GUI in the browser. One example was that I accidently deployed two MHN sensors on the same VM and which I then deleted and started over
+#   The first time I went through the assignment, I did not record the process. I went back through the initial steps with Licecap to show the steps that I took, and I have also uploaded a screenshot from my original honeypots before I took them down.
 
 # Summary of Data Collected
 #   I let my three honeypots run from the evening of 11/16 to the morning of 11/20. After initializing the dionaea honeypot during the assignment instructions, I ran a full port scan against it using nmap. I let this run for about 20 or 30 minutes before force quitting. This stacked up about 5,500 hits. However, by the morning of 11/20, there were a total of 14,833 hits. During this time, dionaea failed to gather any malware samples.
